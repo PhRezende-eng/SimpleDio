@@ -1,0 +1,49 @@
+[
+    {
+        "nome_completo": "Pedro Henrique",
+        "cpf": "125487963",
+        "carro": "Jaguar f type",
+        "email": "jfahskdfj@gmail.com"
+
+    },
+    {
+        "nome_completo": "Paulo Henrique",
+        "cpf": "985672365",
+        "carro": "Corsa Sedan",
+        "email": "ph.hr.001@gmail.com"
+    },
+    {
+        "nome_completo": "Amanda Amorin",
+        "cpf": "254879658",
+        "carro": "Meriva",
+        "email": "sdfasdfhaslk@gmail.com"
+
+    },
+    {
+        "nome_completo": "Carlos Alberto",
+        "cpf": "258741596",
+        "carro": "Camaro",
+        "email": "email@gmail.com"
+    },
+    {
+        "nome_completo": "Jhonso Pedro",
+        "cpf": "523645879",
+        "carro": "CAdenza",
+        "email": "asdfkjasdh@gmail.com"
+
+    },
+    {
+        "nome_completo": "Pedro Jhonson",
+        "cpf": "123456789",
+        "carro": "Corsa",
+        "email": "asdfhkj@gmail.com"
+    },
+    {
+        "nome_completo": "João CArlos",
+        "cpf": "1254987632",
+        "carro": "Celta",
+        "email": "paospi@gmail.com"
+
+    }
+
+]
